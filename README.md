@@ -1,17 +1,17 @@
-# Decisions published by the French COmpetition Authority
+# Decisions published by the French Competition Authority since 1988
 
-This repository aims at making accessible the text of the decisions and press realeases published by the French Competition Authority (FCA). 
+Available at   https://www.data.gouv.fr/datasets/decisions-publiees-par-lautorite-de-la-concurrence-depuis-1988
 
-It comes with 2 datasets, one in english and one in French. 
+Updated weekly
 
-## French dataset
+---English version---
+This dataset contains the full text of all decisions published by the Autorité de la Concurrence (and the Conseil de la Concurrence before that) since 1988.
+These publications contain :
 
-The French dataset is the most complete one, and is composed of more than 5600 decisions published by the FCA and by the Conseil de la Concurrence before. These decisions go from 1988 to 2023. 
+    Decisions (D)
+    Opinions (A)
+    Interim Measures (MC)
+    Merger control decisions (DCC).
 
-The text has been extracted from the decision publicly available on the FCA website, aswell as the text of the press realease when there is one. 
-
-## English dataset
-
-The english dataset is way smaller than the French one. It is composed of decisions which have an page in the english section of the FCA website, or that have been accompanied by the publication of a press release in English. 
-
-It is composed of 700 decisions, including 250 with text extracted from the press realease. 
+This dataset is available in French and also in English, with the text of decisions and press releases translated. Only a portion of the decisions have been translated, which explains the difference in the number of decisions in each file.
+As the main language of the Authority is French, only the French version of the decisions is authentic.
