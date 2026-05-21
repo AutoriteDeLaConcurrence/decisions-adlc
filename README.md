@@ -4,7 +4,6 @@ Available at   https://www.data.gouv.fr/datasets/decisions-publiees-par-lautorit
 
 Updated weekly
 
----English version---
 This dataset contains the full text of all decisions published by the Autorité de la Concurrence (and the Conseil de la Concurrence before that) since 1988.
 These publications contain :
 
